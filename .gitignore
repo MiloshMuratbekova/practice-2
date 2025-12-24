@@ -1,0 +1,21 @@
+# Compiled binaries
+sorting_openmp
+*.o
+*.out
+*.exe
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.a
+*.so
+*.dylib
